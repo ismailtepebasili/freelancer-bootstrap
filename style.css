@@ -1,0 +1,85 @@
+.navbar{
+    background-color: #2c3e50;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+    padding: 2rem !important;
+}
+
+.profile{
+    background-color: #1abc9c;
+    padding-top: 200px;
+    padding-bottom: 6rem;
+}
+
+.start-bootstrap{
+    color: white;
+    font-size: 4rem;
+    font-weight: 600px;
+}
+
+.skills{
+    color: white;
+    font-size: 1.5rem;
+}
+
+.portfolio-heading{
+    font-size: 3rem;
+    line-height: 2.5rem;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.img-stylee{
+    border-radius: 8px;
+}
+
+.about-container{
+    background-color: #1abc9c;
+}
+
+.about-heading{
+    color: white;
+    font-size: 3rem;
+    line-height: 2.5rem;
+    font-weight: 600;
+}
+
+.about-text{
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.btn-xl{
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+}
+
+.footer-container{
+    background-color: #2c3e50;
+}
+
+.footer-heading{
+    color: white;
+}
+
+.footer-text{
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.bootstrap-link{
+    color: #1bb896;
+}
+
+.copyright-container{
+    background-color: #1a252f;
+    color: white;
+}
